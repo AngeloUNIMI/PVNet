@@ -1,0 +1,12 @@
+Milan
+	Module 1: advent_solar_as160___2006
+	Module 2: bp_solar_bp3135__2006__e
+	Module 3: bp_solar_sx340__2007__e
+	Module 4: kyocera_solar_kd135gx_lp__2008__e
+	Module 5: photowatt_pw200_12v__2003__e
+	Module 6: sanyo_hip_h552ba2___2004
+	Module 7: sharp_ne_k125u2__2002__e
+	Module 8: shell_solar_sq75_6v__2004__e
+	Module 9: siemens_solar_st40__1999__e
+	Module 10: solar_frontier_sf_160s__2013
+	Module 11: sunpower_spr_305_wht___2009
