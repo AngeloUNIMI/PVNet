@@ -2,10 +2,10 @@
 
 Python/PyTorch source code for the paper:
 
-	A. Genovese, V. Bernardoni, V. Piuri, F. Scotti, and F. Tessore, 
-    "Photovoltaic energy prediction for new-generation cells with limited data: A transfer learning approach", 
-    in Proc. of the 2022 IEEE Int. Instrumentation and Measurement Technology Conf. (I2MTC 2022), 
-    Ottawa, ON, Canada, May 16-19, 2022, pp. 1-6
+	A. Genovese, V. Bernardoni, V. Piuri, F. Scotti and F. Tessore, 
+	"Photovoltaic Energy Prediction for New-Generation Cells with Limited Data: A Transfer Learning Approach," 
+	2022 IEEE Int. Instrumentation and Measurement Technology Confe. (I2MTC), 2022, pp. 1-6, 
+	doi: 10.1109/I2MTC48687.2022.9806492.
 	
 Project page:
 
